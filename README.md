@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Philip
+- 👋 Hi, I’m Philip (Junhaoran)
 - 🌱 I’m currently taking a bootcamp as well as my MSc Translation and Technology at UCL
 <!---
 TheVeryPulse/TheVeryPulse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
