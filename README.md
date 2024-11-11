@@ -8,43 +8,23 @@ I'm currently studying Computer Science at 42 London.
 ## Tech Stack
 [![c,cpp,python,git,github,ubuntu,linux,docker,vscode,vim](https://skillicons.dev/icons?i=c,cpp,python,git,github,ubuntu,linux,vscode,vim,html,docker)](https://skillicons.dev)
 
+
 ## 🌱 Highlight Projects
 
-🚀 C/C++ on Linux:
+### Ray Tracing in C - [miniRT](https://github.com/theVeryPulse/miniRT)
+A ray tracing software that supports shadow, specular reflection, basic shapes including sphere, cylinder, disk, and plane. **Optimization** with **3D Geometry** and **Linear Algebra**.
 
-### Ray Tracing
-[miniRT](https://github.com/theVeryPulse/miniRT): A ray tracing software that supports shadow, specular reflection, basic shapes including sphere, cylinder, disk, and plane.
+### Shell Program in C - [miniShell](https://github.com/theVeryPulse/Minishell)
+ A shell program inspired by **Bash** that supports **process control** and **I/O redirection**, **pipes**, and various built-in commands.
 
-### C++ Modules
-[CPP](https://github.com/theVeryPulse/CPP): A series of practices focusing on C++, covering from OOP basics to standard containers.
+### Linux Concurrency in C - [philosophers](https://github.com/theVeryPulse/philosophers)
+A program that simulates the [dinning philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) through both **multi-threading** (with mutex) and **multi-processing** (with semaphore), addressing the problem of **concurrency** and **synchronization**.
 
-### Shell Program
-[Minishell](https://github.com/theVeryPulse/Minishell): A shell program inspired by Bash that supports basic commands, redirects, pipes, and various built-in commands.
-
-### Multi-threading and Multi-processing
-[Philosophers](https://github.com/theVeryPulse/philosophers): A program that simulates the [dinning philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) through both multi-threading (with mutex) and multi-processing (with semaphore).
-
-### Mesh Renderer
-[fdf](https://github.com/theVeryPulse/FdF-3D-Wireframe-Renderer): A program that draws meshed maps on screen; supports real-time translation, rotation, and scaling.
-
-### Redirects
-[pipex](https://github.com/theVeryPulse/pipex): A program inspired by pipe command `|` in shell. It executes programs and redirects output of one program to the input of another program. It also supports multiple pipes.
-
-### Sorting Algorithm
-[push swap](https://github.com/theVeryPulse/Push-Swap): A program that sorts two rotating stacks with a limited command set.
-
-### Static Library in C
-[libft](https://github.com/theVeryPulse/Libft): A library that implements many of the basic and useful functions in C standard library.
-
-
-
-
-
-
+<br>*See repositories for more projects.*
 
 ## 🏆 Achievements
 
-- 🌟 Coalition Master: as one of the top students on campus, I was named Master of the Coalition - each coalition has 1/3 of the total students.
+- Coalition Master: with contribution to community and fast project progress, I was named Master of the Coalition representing 1/3 of the students. (03/04/2024)
 
 
 ## 📬 Get in Touch
