@@ -6,7 +6,7 @@ I'm currently studying Computer Science at 42 London.
 
 
 ## Tech Stack
-[![c,cpp,python,git,github,ubuntu,linux,docker,vscode,vim](https://skillicons.dev/icons?i=c,cpp,python,git,github,ubuntu,linux,vscode,html,css,docker,vim)](https://skillicons.dev)
+[![c,cpp,python,git,github,ubuntu,linux,docker,vscode,vim](https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,ubuntu,linux,vscode,docker,vim)](https://skillicons.dev)
 
 
 ## 🌱 Highlight Projects
