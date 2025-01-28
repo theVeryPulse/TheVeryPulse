@@ -2,6 +2,8 @@
 
 I'm currently studying Computer Science at 42 London.
 
+I just strated building my personal website as well. Check it out at: https://theverypulse.github.io/
+
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=theVeryPulse&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
